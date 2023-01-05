@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a junior frontend developer, willing to expand my horizon on a daily basis.<br>I'm quite proficient in HTML and CSS.<br>I'm currently learning JavaScript 🥶<br>I know python well, if I didn't mention that earlier.<br>I speak Russian. Да,и говорю(still learning though).<br>Feel free to follow. I follow back 🤩
+I'm a frontend developer, willing to expand my horizon on a daily basis.<br>I'm quite proficient in HTML and CSS.<br>I'm currently learning JavaScript 🥶<br>I know python well, if I didn't mention that earlier.<br>I speak Russian. Да,и говорю(still learning though).<br>Feel free to follow. I follow back 🤩
 <br>
 
 ## 🤍 Socials:
