@@ -1,6 +1,9 @@
-# 💫 About Me:
-I'm a Machine Learning Engineer, with skills in Frontend Development, willing to expand my horizon on a daily basis.<br>I presently use Tensorflow for my ML projects and React and Typescript for my Frontend projects.<br>I'm currently actively working on building my ML knowledge base while building projects. 🥶<br>I speak Russian. Да,и говорю(still learning though).<br>Feel free to follow my tech journey here🤩
-<br>
+# 💫 About Me:  
+I'm a **Machine Learning Enthusiast** with a background in **Frontend Development**, passionate about continuous growth and exploration in tech. 🚀  
+
+- 🌱 Currently deepening my expertise in **Machine Learning** while building impactful projects.  
+- ⚙️ My go-to tools include **TensorFlow and Pytorch** for ML and **React + TypeScript** for Frontend Development.  
+- 📖 Follow my tech journey as I learn, build, and share exciting projects. 🤩  
 
 ## 🤍 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ilerioluwakiiye ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/llerioluwakiiye ) 
