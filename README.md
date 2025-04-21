@@ -1,17 +1,17 @@
-# 💫 About Me
+# ✨ About Me
 
-I'm **Ilerioluwakiiye Abolade**, a Machine Learning Engineer & Researcher specializing in **medical imaging** applications. I also have a very strong background in Frontend Engineering.
+Hi! I'm **Ilerioluwakiiye Abolade**, a Machine Learning Engineer and Researcher passionate about advancing solutions to challenges in **medical imaging**. I'm currently studying Mechatronics Engineering, and I also have a strong background in Frontend Engineering.
 
-I’m consistently building solutions at the intersection of **AI, healthcare**, and **real-world impact**—especially in low-resource settings.   
+My work lives at the intersection of **deep learning and healthcare**, with a notable focus on building solutions for **low-resource environments**.  
 
 ---
 ## 🤍 Socials  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/llerioluwakiiye)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilerioluwakiiye)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aboladeilerioluwakiiye@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/llerioluwakiiye)
 
 ---
-## 🛠 Tech Stack  
+## Tech Stack  
 
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
